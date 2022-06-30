@@ -1,4 +1,4 @@
-protocol ModuleProtocol {
+public protocol ModuleProtocol {
     func doSomething()
 }
 
